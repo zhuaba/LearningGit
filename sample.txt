@@ -6,5 +6,4 @@ this change is from LearningGit
 
 I have changed the following messages.
 
-Add oneline messages from learninggit
 
