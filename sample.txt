@@ -3,3 +3,4 @@ the first change message
 ----------
 I have changed the following messages.
 Add oneline messages from learninggit
+Add messages from learninggit again
