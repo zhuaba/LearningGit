@@ -1,8 +1,5 @@
 Monky can learn git command
 the first change message
-----------
---this change is from tutorial2
-this change is from LearningGit
 
 
 
