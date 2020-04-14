@@ -4,3 +4,5 @@ the first change message
 --this change is from tutorial2
 this change is from LearningGit
 
+I have changed the following messages.
+
