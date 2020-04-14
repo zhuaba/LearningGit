@@ -3,10 +3,8 @@ the first change message
 ----------
 I have changed the following messages.
 Add oneline messages from tutorial2
-ppppppppppppppppppppppppp
+ppppppppppppppppppppppis if for test
+issue2 changes
 issue2 changes
 issue3 messages
-ppp
-from issue1
-
 

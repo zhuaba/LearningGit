@@ -1,1 +1,2 @@
 this is a A.txt file
+	step 2
