@@ -2,3 +2,4 @@ Monky can learn git command
 the first change message
 ----------
 I have changed the following messages.
+Add oneline messages from learninggit
